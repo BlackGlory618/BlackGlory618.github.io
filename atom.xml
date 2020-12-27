@@ -2,11 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BlackGlory618.github.io</id>
     <title>BlackGlory</title>
-    <updated>2020-12-27T15:24:50.359Z</updated>
+    <updated>2020-12-27T18:43:00.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://BlackGlory618.github.io"/>
     <link rel="self" href="https://BlackGlory618.github.io/atom.xml"/>
-    <subtitle>I walk slowly, but I never walk backwards.</subtitle>
     <logo>https://BlackGlory618.github.io/images/avatar.png</logo>
     <icon>https://BlackGlory618.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, BlackGlory</rights>
