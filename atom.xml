@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BlackGlory618.github.io</id>
     <title>BlackGlory</title>
-    <updated>2020-12-27T18:43:00.717Z</updated>
+    <updated>2020-12-27T19:56:43.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://BlackGlory618.github.io"/>
     <link rel="self" href="https://BlackGlory618.github.io/atom.xml"/>
@@ -10,12 +10,20 @@
     <icon>https://BlackGlory618.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, BlackGlory</rights>
     <entry>
-        <title type="html"><![CDATA[test]]></title>
+        <title type="html"><![CDATA[Hello World]]></title>
         <id>https://BlackGlory618.github.io/post/test/</id>
         <link href="https://BlackGlory618.github.io/post/test/">
         </link>
         <updated>2020-12-27T13:06:20.000Z</updated>
-        <content type="html"><![CDATA[<p>Hello World</p>
+        <summary type="html"><![CDATA[<ul>
+<li>谨以此文纪念本人开始费曼学习法的实践。</li>
+</ul>
+]]></summary>
+        <content type="html"><![CDATA[<ul>
+<li>谨以此文纪念本人开始费曼学习法的实践。</li>
+</ul>
+<!-- more -->
+<p>-- BlackGlory</p>
 ]]></content>
     </entry>
     <entry>
